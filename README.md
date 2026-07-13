@@ -21,7 +21,7 @@
 ![Material UI](https://img.shields.io/badge/Material_UI-7.0-0081cb)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-Workers-f38020)
 
-[![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/redflame611/Cloudflare-NaviHive)
+[![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/pqllgop/Cloudflare-NaviHive)
 
 </div>
 
@@ -423,10 +423,8 @@ A: NaviHive 使用两个主要表格：
 ## ⭐ 支持一下作者
 
 - 给项目点个 Star，分享给您的朋友
-- 通过微信赞赏支持我的持续开发
-<div align="center">
-  <img src="https://img.zhengmi.org/file/1743956440128_4b965550184c06d8164f8077fa42b5d.jpg" alt="微信赞赏码" width="300">
-</div>
+
+
 
 
 ## Star History
